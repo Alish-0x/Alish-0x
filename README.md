@@ -32,10 +32,15 @@
 ---
 
 ### 🧬 **Chaotic Skill Genome**
-<pre align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,c,java,ubuntu,vscode,react,js,bash,cloudflare,cmake,discord,gcp,git,github,gmail,go,gitlab,heroku,instagram,kali,linkedin,linux,md,matlab,netlify,nginx,npm,postgres,replit,stackoverflow,supabase,twitter,vercel,windows&theme=dark&perline=12" />
-  <img src="https://skillicons.dev/icons?i=html,css,c,java,ubuntu,vscode,react,js,bash,cloudflare,cmake,discord,gcp,git,github,gmail,go,gitlab,heroku,instagram,kali,linkedin,linux,md,matlab,netlify,nginx,npm,postgres,replit,stackoverflow,supabase,twitter,vercel,windows&perline=12" />
-</picture></pre>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,c,java,ubuntu,vscode,react,js,bash,cloudflare,cmake,discord" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,gmail,go,gitlab,heroku,instagram,kali,linkedin,linux,md" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=matlab,netlify,nginx,npm,postgres,replit,stackoverflow,supabase,twitter,vercel,windows" />
+</p>
 
 <details><summary><b>🔭 Expand Quantum Signature</b></summary>
 
