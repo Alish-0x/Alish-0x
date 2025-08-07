@@ -15,7 +15,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=8338EC&center=true&vCenter=true&width=600&lines=0xAlish%20%7C%20Quantum%20Byte%20Surfer" />
   </picture>
 </p>
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-azure-six.vercel.app?user=Alish-0x&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00F5D4&fire=FF006E&sideNums=FFBE0B&sideLabels=ffffff&currStreakNum=ffffff&currStreakLabel=00F5D4" />
