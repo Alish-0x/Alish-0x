@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-azure-six.vercel.app?user=Alish-0x&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00F5D4&fire=FF006E&sideNums=FFBE0B&sideLabels=ffffff&currStreakNum=ffffff&currStreakLabel=00F5D4" />
+    <img src="https://streak-stats.demolab.com/?user=Alish-0x&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00F5D4&fire=FF006E&sideNums=FFBE0B&sideLabels=ffffff&currStreakNum=ffffff&currStreakLabel=00F5D4" />
   </a>
 </p>
 
