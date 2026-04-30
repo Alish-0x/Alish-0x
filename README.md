@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/alish-karki-48b625244">LinkedIn</a> ·
   <a href="mailto:hello@pulseonix.xyz">hello@pulseonix.xyz</a>
 </p>
-
 ---
 
 ### About
